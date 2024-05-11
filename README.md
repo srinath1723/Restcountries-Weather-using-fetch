@@ -19,7 +19,7 @@ Implement the rest countries and Open weather map APIs using fetch() API.
 
 **Solution**
 
-   * All javascript codes are scripted file name on[script.js](./js/script.js) and which have been imported in the [Html page.](./index.html)
+   * All javascript codes are scripted file name on[script.js](./jss/script.js) and which have been imported in the [Html page.](./index.html)
     
    * For style the page:[style](./css/style.css) and background [image](./background-image.jpg) and background [image2](./silver-image.jpg)
 
