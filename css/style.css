@@ -1,0 +1,41 @@
+.card {
+    border: 1px solid #ddd;
+    border-radius: 8px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    height: 50%;
+    width: 100%;
+    
+
+     
+}
+
+.card-header {
+    background-color: #050202; 
+    border: 2px solid #090500; 
+    text-align:center;
+    color: #ddd;
+    
+}
+
+.card-body ,.card-text{
+    padding: 20px;
+    border: 2px solid #06040c;
+    background-image: url("/silver-image.jpg");
+    text-align: center;
+    
+   
+     
+}
+
+.btn-primary {
+    background-color: #0056b3; 
+    border-color: #0056b3;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3; 
+}
+.root{
+background-image: url("/background-image.jpg");
+}
